@@ -8,7 +8,7 @@ import type {
 export class AmazonawsAppmeshApi implements ICredentialType {
 	name = 'N8nDevAmazonawsAppmeshApi';
 
-	displayName = 'amazonaws-appmesh API';
+	displayName = 'Amazonaws Appmesh API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsAppmesh/amazonaws-appmesh.png', dark: 'file:../nodes/AmazonawsAppmesh/amazonaws-appmesh.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsAppmeshApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://appmesh.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-appmesh API server',
+			description: 'The base URL of your Amazonaws Appmesh API server',
 		},
 		{
 			displayName: 'API Key',

@@ -53,9 +53,49 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Put create gateway route, Get list gateway routes, Put create mesh, Get list meshes, Put create route, Get list routes, Put create virtual gateway, Get list virtual gateways, Put create virtual node, Get list virtual nodes, Put create virtual router, Get list virtual routers, Put create virtual service, Get list virtual services, Delete gateway route, Get describe gateway route, Put update gateway route, Delete mesh, Get describe mesh, Put update mesh, Delete route, Get describe route, Put update route, Delete virtual gateway, Get describe virtual gateway, Put update virtual gateway, Delete virtual node, Get describe virtual node, Put update virtual node, Delete virtual router, Get describe virtual router, Put update virtual router, Delete virtual service, Get describe virtual service, Put update virtual service, Get list tags for resource, Put tag resource, Put untag resource |
+<details>
+<summary><b>Default</b> (38 operations)</summary>
+
+- Put Create Gateway Route
+- Get List Gateway Routes
+- Put Create Mesh
+- Get List Meshes
+- Put Create Route
+- Get List Routes
+- Put Create Virtual Gateway
+- Get List Virtual Gateways
+- Put Create Virtual Node
+- Get List Virtual Nodes
+- Put Create Virtual Router
+- Get List Virtual Routers
+- Put Create Virtual Service
+- Get List Virtual Services
+- Delete Gateway Route
+- Get Describe Gateway Route
+- Put Update Gateway Route
+- Delete Mesh
+- Get Describe Mesh
+- Put Update Mesh
+- Delete Route
+- Get Describe Route
+- Put Update Route
+- Delete Virtual Gateway
+- Get Describe Virtual Gateway
+- Put Update Virtual Gateway
+- Delete Virtual Node
+- Get Describe Virtual Node
+- Put Update Virtual Node
+- Delete Virtual Router
+- Get Describe Virtual Router
+- Put Update Virtual Router
+- Delete Virtual Service
+- Get Describe Virtual Service
+- Put Update Virtual Service
+- Get List Tags For Resource
+- Put Tag Resource
+- Put Untag Resource
+
+</details>
 
 ---
 

@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsAppmesh implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-appmesh',
+		displayName: 'Amazonaws Appmesh',
 		name: 'N8nDevAmazonawsAppmesh',
 		icon: { light: 'file:./amazonaws-appmesh.png', dark: 'file:./amazonaws-appmesh.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'App Mesh is a service mesh based on the Envoy proxy that makes it easy to monitor and control microservices. App Mesh standardizes how your microservices communicate, giving you end-to-end visib..',
-		defaults: { name: 'amazonaws-appmesh' },
+		description: 'App Mesh uses Envoy proxy for microservice monitoring, control, and standardized communication.',
+		defaults: { name: 'Amazonaws Appmesh' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
